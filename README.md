@@ -1,7 +1,3 @@
-Below is a **next-level GitHub README** with animations, visuals, and stronger visual hierarchy. It uses badges, a typing animation, icons, and a workflow diagram to give your repo a premium feel.
-
----
-
 # 🐍 Python Basic Exercises
 
 ### *Build a Strong Foundation in Python Programming*
