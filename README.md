@@ -12,40 +12,40 @@ Build a solid base for advanced topics like Machine Learning & AI
 
 Each exercise is simple, focused, and practical—perfect for daily practice.
 
-🧠 What You Will Learn
+🧠 What You Will Learn <br>
 
 🔹 Core Concepts
 Variables & Data Types
 Input / Output Handling
-Type Casting
+Type Casting <br>
 
 🔹 Control Structures
 Conditional Statements (if, elif, else)
 Nested Logic
-Boolean Operations
+Boolean Operations <br>
 
 🔹 Loops & Iteration
 for loops
 while loops
-Loop control (break, continue)
+Loop control (break, continue) <br>
 
 🔹 Functions
 Function creation
 Parameters & return values
-Basic lambda usage
+Basic lambda usage  <br>
 
 🔹 Data Structures
 Lists
 Tuples
 Sets
-Dictionaries
+Dictionaries  <br>
 
 🔹 Strings
 String methods
 Formatting
-Pattern-based exercises
+Pattern-based exercises  <br>
 
 🔹 File Handling
 Reading files
 Writing files
-Working with text data
+Working with text data  <br>
